@@ -1,0 +1,42 @@
+MATEMATICA: 
+
+QUE ES LA LOGICA
+	- razonamiento
+	- deducir verdades a partir de otras verdades
+	- conclusiones de la forma correcta
+	
+porque es importante la logica?
+
+La programacion requiere el desarrollo del razonamiento logico
+- reconocer el problema _> buscar solucion > formar conclusiones
+- analisis de condiciones en setencias de control
+- razonam,iento sobre el conocimiento del problema
+
+ ------------------------------------------------
+ 
+ Definiciones preposiciones
+ 
+ - Variable Proposional: simbolo que representa una preposicion y puede tomar dos valores, verdadero ( v, o 1)
+ o falso (f o 0) usaremos letras p, q, r...
+ 
+ -Proposicion atomica: compuesta de una unica variable proposional;
+ 
+ -Proposicion compuesta: se construye a partir de sentencias mas simples mediante conectivas logicas.
+ 
+ Variable Proposicional P: = LLueve
+ p = V ( es verdad, si llueve)
+ p = 1 ( es verdad , si llueve)
+ 
+ Tablas de verdad:
+ - Metodo para mostrar los resultados obtenidos al aplicar cada uno de los conectores logicos a una proposicion
+ 
+ ejemplo:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
